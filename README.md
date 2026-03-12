@@ -4,6 +4,14 @@ Are you ready for a high-speed, modern combat experience where skill is the only
 
 ---
 
+### Distribution
+The game is cross-platform playable on Android, Windows, and Linux.
+
+For Android, you can download the game from Google Play (https://google.com)[https://example.com].
+For Windows and Linux, you can download the game from the Releases section.
+
+---
+
 ### 🚀 UNMATCHED PERFORMANCE - 45+ FPS ON ANY DEVICE**
 Stop losing because of lag! **NeonRise** is built with a state-of-the-art optimization engine. 
 * **Smooth Gameplay:** Enjoy buttery-smooth 45+ FPS whether you are using a flagship phone or a budget-friendly device.
