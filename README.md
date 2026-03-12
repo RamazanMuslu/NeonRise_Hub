@@ -7,7 +7,7 @@ Are you ready for a high-speed, modern combat experience where skill is the only
 ### Distribution
 The game is cross-platform playable on Android, Windows, and Linux.
 
-For Android, you can download the game from [Google Play](https://play.google.com/store/apps/details?id=com.yorastudio.neonrise). \n
+For Android, you can download the game from [Google Play](https://play.google.com/store/apps/details?id=com.yorastudio.neonrise). <br>
 For Windows and Linux, you can download the game from the [Releases](https://github.com/RamazanMuslu/NeonRise_Hub/releases) section.
 
 ---
